@@ -87,7 +87,7 @@ export default function Home() {
       <section className="container mx-auto px-4 py-12">
           <div className="flex items-center justify-between mb-4">
             
-            <div  value="seasonal">🌱 Seasonal</div>
+            <h2 className="text-2xl font-bold">🌱 Seasonal</h2>
             <Button variant="ghost">
               View All <ArrowRight className="ml-2 h-4 w-4" />
             </Button>
